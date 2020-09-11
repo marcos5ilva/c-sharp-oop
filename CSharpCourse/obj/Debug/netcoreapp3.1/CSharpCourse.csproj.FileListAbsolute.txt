@@ -1,0 +1,16 @@
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse.deps.json
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse.runtimeconfig.json
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse.runtimeconfig.dev.json
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse.dll
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourse.pdb
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourseLibrary.dll
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/bin/Debug/netcoreapp3.1/CSharpCourseLibrary.pdb
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.csprojAssemblyReference.cache
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.AssemblyInfoInputs.cache
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.AssemblyInfo.cs
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.csproj.CoreCompileInputs.cache
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.csproj.CopyComplete
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.dll
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.pdb
+/mnt/ntfs_drive/CsharpStudies/csharp-course/CSharpCourse/obj/Debug/netcoreapp3.1/CSharpCourse.genruntimeconfig.cache
