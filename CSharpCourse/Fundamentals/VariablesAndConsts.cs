@@ -4,7 +4,11 @@ namespace CSharpCourse.Fundamentals
     {
         public static void Execute()
         {
-            System.Console.WriteLine("Variable and cost class");
+            double radius = 4.5;
+            const double PI = 3.14;
+
+            double area = PI * radius * radius;
+            System.Console.WriteLine($"The circumference area is: {area}");
         }
     }
 }

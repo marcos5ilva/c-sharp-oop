@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharpCourse.ClassesAndMethods;
 
 namespace CSharpCourse
 {
@@ -6,8 +7,7 @@ namespace CSharpCourse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Fundamentals.VariablesAndConsts.Execute();
+            Members.Execute();
         }
     }
 }
