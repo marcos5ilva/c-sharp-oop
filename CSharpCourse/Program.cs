@@ -7,7 +7,7 @@ namespace CSharpCourse
     {
         static void Main(string[] args)
         {
-            AddCalcReview.Execute();
+            StaticMethods.Execute();
         }
     }
 }
